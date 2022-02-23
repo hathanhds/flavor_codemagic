@@ -1,0 +1,14 @@
+//
+//  stag.xcconfig
+//  Runner
+//
+//  Created by ThanhNTH on 23/02/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUNDLE_ID_SUFFIX=.stag
+PRODUCT_BUNDLE_IDENTIFIER=com.example.flavorCodemagic.stag
+APP_FLUTTER_TARGET=lib/main_stag.dart
+APP_NAME=Flavor STAG

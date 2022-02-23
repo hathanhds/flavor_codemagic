@@ -1,0 +1,14 @@
+//
+//  dev.xcconfig
+//  Runner
+//
+//  Created by ThanhNTH on 23/02/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUNDLE_ID_SUFFIX=.dev
+PRODUCT_BUNDLE_IDENTIFIER=com.example.flavorCodemagic.dev
+APP_FLUTTER_TARGET=lib/main_dev.dart
+APP_NAME=Flavor DEV
